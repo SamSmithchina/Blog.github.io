@@ -65,7 +65,7 @@ disqus: # fromendworld
 gitalk:
   clientID: 932598
   clientSecret: Iv23livjdjEdUcGHFYtl
-  repo: Blog.github.io
+  repo: SamSmithchina.github.io
   owner: SamSmithchina
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
